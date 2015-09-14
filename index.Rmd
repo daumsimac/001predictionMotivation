@@ -1,0 +1,21 @@
+---
+title: "PredictMotivation"
+author: "DongWon Lee"
+date: "2015. 9. 14."
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+R Markdown
+
+```{r}
+summary(cars)
+```
+
+You can also embed plots, for example:
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
